@@ -1,4 +1,4 @@
-# Chequiz guide
+## Chequiz-app guide
 
 Please follow the following steps to run the Chequiz app on a local machine.
 
