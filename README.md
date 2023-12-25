@@ -1,17 +1,16 @@
-# CM3050 Final Coursework
 # Chequiz guide
 
 Please follow the following steps to run the Chequiz app on a local machine.
 
-Download the CM3050_FinalCourseWk_codes.zip files and open the terminal.
+Download the files and open terminal.
 
 Navigate to the project directory
-cd CM3050_FinalCourseWk_codes
+cd <project directory>
 
 ## Install dependencies
 npm install
 
-## Install these additional libraries
+## Install additional libraries
 
 npm install react-native-tableview-simple
 npm install expo-haptics
