@@ -1,11 +1,11 @@
 ## Chequiz
 A quiz application built using React Native. 
 
-## Chequiz guide
+## Guide
 
 Please follow the following steps to run the Chequiz app on a local machine.
 
-Download the files and open terminal.
+Download the files and open terminal.  
 Navigate to the project directory
 
 ### Install dependencies
