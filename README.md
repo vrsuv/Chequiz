@@ -1,14 +1,17 @@
-## Chequiz-app guide
+## Chequiz
+A quiz application built using React Native. 
+
+## Chequiz guide
 
 Please follow the following steps to run the Chequiz app on a local machine.
 
 Download the files and open terminal.
 Navigate to the project directory
 
-## Install dependencies
+### Install dependencies
 npm install
 
-## Install additional libraries
+### Install additional libraries
 
 npm install react-native-tableview-simple  
 npm install expo-haptics  
@@ -26,5 +29,5 @@ npm install react-native-svg-charts
 npm install react-native-select-dropdown  
 npm install firebase  
 
-## Run the app
+### Run the app
 Expo start
